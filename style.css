@@ -412,9 +412,10 @@ footer ul a{
     padding: 10px;
     font-size: 30px;
     color: rgb(36, 190, 190);
- 
   }
-  
+    nav{
+     position:absolute;
+}
   .row {
     gap: 10px;
   }
