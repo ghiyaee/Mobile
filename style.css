@@ -408,7 +408,7 @@ footer ul a{
     display: none;
   }
   #menu {
-    display: block;
+/*     display: block; */
     padding: 10px;
     font-size: 30px;
     color: rgb(36, 190, 190);
