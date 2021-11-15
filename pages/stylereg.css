@@ -67,6 +67,7 @@ main h4 a {
   font-weight: 900;
   font-size: 30px;
   color: #968f8f;
+  color:rgb(36,180,180)
 }
 
 @media screen and (max-width: 767px) {
